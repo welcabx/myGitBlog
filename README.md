@@ -1,4 +1,3 @@
-# This is a one hashtag line.
-## This line has twon hashtag.
+# Git and GitHub Learning Repository
 
-I don't know if I am using the right term.
+This is the repository of my simple website page that documents my journey and experiences while learning and mastering the fundamentals and advanced concepts of Git and GitHub.
